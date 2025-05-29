@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "749457748261",
+    "project_id": "katrinbe-af9ce",
+    "storage_bucket": "katrinbe-af9ce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749457748261:android:ce82255d151a58ade42acc",
+        "android_client_info": {
+          "package_name": "com.example.fitup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeuN88qvKSEW9OJCQVRwKifi_C5fFQ1Es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
